@@ -5,7 +5,7 @@
   "license": "MIT",
   "scripts": {
     "start": "react-scripts start",
-    "build": "parcel build src/index.html"
+    "build": "react-scripts build"
   },
   "keywords": [],
   "author": "",
