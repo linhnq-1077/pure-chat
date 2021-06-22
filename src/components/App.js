@@ -25,7 +25,7 @@ const App = () => {
   return (
     <div className="App">
       <header>
-        <h1>Pure Chat 🔥</h1>
+        <h1>Pure Chat 🔥 - A Simple Chat for you!</h1>
         <SignOut />
       </header>
       <section>{user ? <ChatRoom /> : <SignIn />}</section>
